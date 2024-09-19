@@ -1,2 +1,2 @@
 # AnthropoceneHandbook
-A handbook for rebuilding society after nuclear war and the following anthropocene.
+A handbook and practical guide for rebuilding society after nuclear war in the following anthropocene.
