@@ -7,19 +7,19 @@ A collaborative project, perhaps with plans for a wiki solution, and then print.
 
 Chapters:
 
-1. Violence prevention
+1. Violence prevention<br />
     -Repulsing criminals from taking power in an ongoing power vacuum.<br />
     -Protecting Jewish survivors if Israel initiated the nuclear exchange.<br />
-2. Economic Activity
+2. Economic Activity<br />
     -Economic activity in the absence of capital.<br />
     -Anarcho-Syndicalism<br />
     -Notes on unworkability of capitalism<br />
     -Rebuilding the internet and other means of communication.<br />
-3. Health
+3. Health<br />
     -How to set up a hospital<br />
     -First aid<br />
     -Radiation, Burns and other nuclear blast injuries<br />
     -Disease prevention<br />
     -somatic and mental treatment for non-health workers<br />
     -Basic Psychology<br />
-4. School
+4. School<br />
